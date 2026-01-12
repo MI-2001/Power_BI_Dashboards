@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-<img src="/Images/Dashboard.gif">
+![Data Jobs Dashboard Page 1](/Images/Dashboard.gif)
 
 
 ## Introduction
